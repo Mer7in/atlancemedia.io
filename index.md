@@ -564,5 +564,9 @@
     <script src="js/main.js"></script>
 
 </body>
+<<<<<<< HEAD:index.html
 
 </html>
+=======
+</html>
+>>>>>>> 00bdc9cb70dfb76957b5c459ed6e835db64ffc3c:index.md
